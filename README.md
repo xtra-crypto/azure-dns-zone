@@ -265,12 +265,3 @@ Write-Host "🗑️ Deletion started. Check Azure Portal for status."
 ```
 
 ---
-
-### 💡 Tips for your GitHub Page
-
-1.  **Make Scripts Executable:** If you are on Linux/Mac before pushing, run `chmod +x *.sh`.
-2.  **Add a License:** Add a `LICENSE` file (e.g., MIT) so people know they can use your code.
-3.  **GitHub Actions (Optional):** If you want to be advanced, you can add a `.github/workflows/deploy.yml` file to allow users to click a button and deploy this directly from the GitHub UI using OIDC authentication.
-4.  **Screenshots:** Take a screenshot of the Azure Portal showing the two VNet Links under the Private DNS Zone and add it to your README. Visuals help a lot!
-
-This structure makes your repository look professional, safe (cleanup included), and easy to use for both CLI and PowerShell users.

@@ -1,6 +1,5 @@
 
 ### 1. 📄 `README.md`
-*Copy this into your README file. It explains what the project does.*
 
 ```markdown
 # Azure Private DNS Zone Multi-VNet Demo

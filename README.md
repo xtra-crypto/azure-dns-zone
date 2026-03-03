@@ -1,21 +1,4 @@
 
-To make this professional and ready for GitHub, you should structure it as a **Infrastructure-as-Code (IaC) Demo Repository**.
-
-Below is a complete template. You can create these files in your local folder and push them to your GitHub repository.
-
-### 📂 Recommended Repository Structure
-```text
-azure-private-dns-demo/
-│
-├── README.md                 # Documentation
-├── deploy-cli.sh             # Azure CLI Script
-├── deploy-ps.ps1             # PowerShell Script
-├── cleanup-cli.sh            # Cleanup Script (CLI)
-└── cleanup-ps.ps1            # Cleanup Script (PowerShell)
-```
-
----
-
 ### 1. 📄 `README.md`
 *Copy this into your README file. It explains what the project does.*
 
